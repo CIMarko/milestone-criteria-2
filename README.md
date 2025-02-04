@@ -1,10 +1,10 @@
-# 🎯 **Milestone project 1 - criteria and guidance** 🎯
+# 🎯 **Milestone project 2 - criteria and guidance** 🎯
 
 [Live link](https://cimarko.github.io/milestone-criteria-2/)
 
 Hello everyone! 👋
 
-This document outlines the **Milestone Criteria** for **Project 1**. It's important to follow this structure carefully to make sure you're on track to succeed. **Focus on the Pass criteria (MVP)** first, and then gradually work towards the **Merit/Distinction criteria** for higher grades. 🚀
+This document outlines the **Milestone Criteria** for **Project 2**. It's important to follow this structure carefully to make sure you're on track to succeed. **Focus on the Pass criteria (MVP)** first, and then gradually work towards the **Merit/Distinction criteria** for higher grades. 🚀
 
 ---
 
