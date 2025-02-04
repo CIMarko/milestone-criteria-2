@@ -1,20 +1,20 @@
-# 🎯 **Project 1: Milestone Criteria and Guidance** 🎯
+# 🎯 **Milestone project 1 - criteria and guidance** 🎯
 
 [Live link](https://cimarko.github.io/milestone-criteria-2/)
 
 Hello everyone! 👋
 
-This document outlines the **Milestone Criteria** for **Project 1**. It's super important to follow this structure carefully to make sure you're on track to succeed. **Focus on the Pass Criteria (MVP)** first, and then gradually work towards the **Merit/Distinction Criteria** for higher grades. 🚀
+This document outlines the **Milestone Criteria** for **Project 1**. It's important to follow this structure carefully to make sure you're on track to succeed. **Focus on the Pass criteria (MVP)** first, and then gradually work towards the **Merit/Distinction criteria** for higher grades. 🚀
 
 ---
 
-## **📌 Milestone Breakdown**
+## **📌 Milestone breakdown**
 
-### **1. Focus on Pass Criteria (MVP) First** ✅
+### **1. Focus on Pass criteria (MVP) first** ✅
 
 The **Minimum Viable Product (MVP)** is the **core foundation** of your project. It is the **bare minimum** that you need to submit to **pass** the project. 📊 
 
-#### Key Steps for MVP:
+#### Key steps for MVP:
 - **Develop essential features**: Make sure the main functionality is working correctly.
 - **Ensure basic usability**: The project should be user-friendly and intuitive.
 - **Complete core requirements**: Check the rubric for mandatory features you need to implement.
